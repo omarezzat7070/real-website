@@ -1,0 +1,32 @@
+#about{
+    font-size: 20px;
+    color: brown;
+    margin-bottom: 70px;
+}
+#paragraph{
+    font-size: 20px;
+    margin-bottom: 70px;
+    color: rgb(196, 30, 57);
+}
+li{
+    list-style: none;
+   display: inline-block;
+   padding-right: 20px;
+   padding-bottom: 5px;
+   padding-top: 20px;
+   color: blueviolet;
+}
+li a:hover{
+    color: blue;
+    background-color: aliceblue;
+}
+.black{
+    background-color: rgb(80, 0, 0);
+}
+li a{
+    text-decoration: dotted;
+    color: rgb(125, 10, 192);}
+    body{
+        background-color: black;
+        min-height: 100vh;
+    }
